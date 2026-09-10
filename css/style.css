@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+}
+a {
+  color :black
+}
+header {display:flex; justify-content:space-between}
+ul {display:flex; list-style-type:none}
+li {margin-right: 36px}
